@@ -15,7 +15,7 @@
 
 ```bash
 cd config
-git clone https://github.com/XiaoMi/ha_xiaomi_home.git
+git clone https://github.com/vayci/ha_xiaomi_home.git
 cd ha_xiaomi_home
 ./install.sh /config
 ```
@@ -32,7 +32,7 @@ git checkout v1.0.0
 
 ### 方法 2: [HACS](https://hacs.xyz/)
 
-HACS > 右上角三个点 > Custom repositories > Repository: https://github.com/XiaoMi/ha_xiaomi_home.git & Category or Type: Integration > ADD > 点击 HACS 的 New 或 Available for download 分类下的 Xiaomi Home ，进入集成详情页  > DOWNLOAD
+HACS > 右上角三个点 > Custom repositories > Repository: https://github.com/vayci/ha_xiaomi_home.git & Category or Type: Integration > ADD > 点击 HACS 的 New 或 Available for download 分类下的 Xiaomi Home ，进入集成详情页  > DOWNLOAD
 
 > 米家集成暂未添加到 HACS 商店，敬请期待。
 
