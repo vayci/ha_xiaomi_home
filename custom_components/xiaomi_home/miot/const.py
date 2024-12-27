@@ -116,7 +116,7 @@ DEFAULT_CTRL_MODE: str = 'auto'
 
 # Registered in Xiaomi OAuth 2.0 Service
 # DO NOT CHANGE UNLESS YOU HAVE AN ADMINISTRATOR PERMISSION
-OAUTH_REDIRECT_URL: str = 'http://homeassistant.local:8123'
+OAUTH_REDIRECT_URL: str = 'http://homeassistant.local:8301'
 
 MIHOME_CA_CERT_STR: str = '-----BEGIN CERTIFICATE-----\n' \
     'MIIBazCCAQ+gAwIBAgIEA/UKYDAMBggqhkjOPQQDAgUAMCIxEzARBgNVBAoTCk1p\n' \
